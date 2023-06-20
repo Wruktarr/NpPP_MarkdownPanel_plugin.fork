@@ -4,7 +4,7 @@ Plugin to preview Markdown files in Notepad++ *(tested on Notepad++ 7.9.1.0)*
 - lightweight plugin to preview markdown within Notepad++
 - displaying rendered markdown html with embedded IE11
 - can save rendered html to a file
-- Dark mode support (_requires Notepad++ version 8.4.1 or later_)
+- Dark mode support (_requires Notepad++ version 8.4.1 or later - info: works on earlier version too, but requires copy of 'style-dark.css' and renaming it to 'style.css'_)
 
 ### Current Version
 
