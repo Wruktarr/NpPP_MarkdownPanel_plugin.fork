@@ -1,5 +1,5 @@
 # MarkdownPanel for Notepad++
-Plugin to preview Markdown files in Notepad++
+Plugin to preview Markdown files in Notepad++ *(tested on Notepad++ 7.9.1.0)*
 
 - lightweight plugin to preview markdown within Notepad++
 - displaying rendered markdown html with embedded IE11
